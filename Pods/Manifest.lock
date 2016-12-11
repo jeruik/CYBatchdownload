@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - TCBlobDownload (2.1.1)
+
+DEPENDENCIES:
+  - SDWebImage (~> 3.8.1)
+  - TCBlobDownload
+
+SPEC CHECKSUMS:
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  TCBlobDownload: 8726f054cc00bb5f66a57bb0c99764842dfa5c9f
+
+PODFILE CHECKSUM: 957abbae8a125ef58da1d31d10f886de00a1e211
+
+COCOAPODS: 1.1.0

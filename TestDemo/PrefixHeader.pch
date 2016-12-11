@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  练习2
+//
+//  Created by nimingM on 16/5/9.
+//  Copyright © 2016年 蔡凌云. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+#endif /* PrefixHeader_pch */
